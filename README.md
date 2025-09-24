@@ -36,7 +36,7 @@ A passionate developer focused on AI4Science, especially AI4Polymer.
 ### 📫 Get In Touch
 
 - Email: [tanshiqian@outlook.com](mailto:tanshiqian@outlook.com)
-- LinkedIn: [linkedin.com/in/shiqiantan](https://www.linkedin.com/in/%E8%AF%97%E4%B9%BE-%E8%B0%AD-93bbab317/details/education/)
+- LinkedIn: [linkedin.com/in/shiqiantan](https://www.linkedin.com/in/%E8%AF%97%E4%B9%BE-%E8%B0%AD-93bbab317/)
 - Website: [shiqiantan.dev](https://shiqiantan.dev)
 
 ---
