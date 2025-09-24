@@ -38,7 +38,11 @@ A passionate developer focused on AI4Science, especially AI4Polymer.
 - Email: [tanshiqian@outlook.com](mailto:tanshiqian@outlook.com)
 - LinkedIn: [linkedin.com/in/shiqiantan](https://www.linkedin.com/in/%E8%AF%97%E4%B9%BE-%E8%B0%AD-93bbab317/)
 - Website: [shiqiantan.dev](https://shiqiantan.dev)
-
+- 微信公众号: **鲸落生**
+  <div align="center">
+    <img src="https://github.com/ShiqianTan/AI4Polymer/blob/main/wechat.jpg" alt="鲸落生 微信公众号二维码" width="200">
+  </div>
+  <p align="center">扫码关注我的公众号，获取更多AI4Polymer技术分享</p>
 ---
 
 ⭐️ From [ShiqianTan](https://github.com/ShiqianTan)
