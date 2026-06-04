@@ -84,6 +84,7 @@ Chinese Journal of Chemical Physics, 35(5), 720–726.
 
 ### 💼 Work & Internship
 
+- **FieldQuantum** – AI4S, Data and Evaluation (202604-Now）
 - **ByteDance** – Data-AML-Scientific Computing (2022–2023)  
 - **ByteDance** – Data-AML-Engine Intern (2022)  
 - **ByteDance** – TikTok-Quality Assurance Intern (2021)  
