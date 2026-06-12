@@ -12,9 +12,9 @@ I'm currently a PhD candidate in Materials Science and Engineering at **The Chin
   GPA: 3.83/4.0 | Supervisors: Prof. Shiping Zhu, Prof. Qi Zhang, Prof. Tianshu Yu  
   Research: AI for polymer
 
-- **Joint PhD**  
+- **CSC Joint PhD**  
   *Ghent University* (2025 – 2026)  
-  Supervisor: Prof. Dagmar R. D'hooge
+  Supervisor: Prof. Dagmar R. D'hooge  
   Research: AI for polymer
 
 - **MSc in Physical Chemistry**  
