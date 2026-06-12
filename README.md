@@ -10,7 +10,12 @@ I'm currently a PhD candidate in Materials Science and Engineering at **The Chin
 - **PhD Candidate in Materials Science and Engineering**  
   *The Chinese University of Hong Kong, Shenzhen* (2023 – Present)  
   GPA: 3.83/4.0 | Supervisors: Prof. Shiping Zhu, Prof. Qi Zhang, Prof. Tianshu Yu  
-  Research: Machine learning for polymeric materials, polymer property prediction, generative models
+  Research: AI for polymer
+
+- **Joint PhD**  
+  *Ghent University* (2025 – 2026)  
+  Supervisor: Prof. Dagmar R. D'hooge
+  Research: AI for polymer
 
 - **MSc in Physical Chemistry**  
   *Fudan University* (2019 – 2022)  
