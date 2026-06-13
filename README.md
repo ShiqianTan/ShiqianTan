@@ -9,7 +9,8 @@ I'm currently a PhD candidate in Materials Science and Engineering at **The Chin
 
 - **PhD Candidate in Materials Science and Engineering**  
   *The Chinese University of Hong Kong, Shenzhen* (2023 – Present)  
-  GPA: 3.87/4.0 | Supervisors: Prof. Shiping Zhu, Prof. Qi Zhang, Prof. Tianshu Yu  
+  GPA: 3.87/4.0  
+  Supervisors: Prof. Shiping Zhu, Prof. Qi Zhang, Prof. Tianshu Yu  
   Research: AI for polymer
 
 - **CSC Joint PhD**  
